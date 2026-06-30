@@ -26,7 +26,7 @@ dist-ssr/
 
 # Assets
 # Entire assets folder is ignored as requested
-public/assets/
+# public/assets/
 
 # Environment variables
 .env

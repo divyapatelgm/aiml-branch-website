@@ -96,10 +96,10 @@ const BoS = () => {
   };
 
   const bosMembers = [
-    {
-      name: 'Dr. Sanjay Pande M B',
-      position: "Director, \n School of Computer Science & Technology , GM University, Davangere",
-    },
+    // {
+    //   name: 'Dr. Sanjay Pande M B',
+    //   position: "Director, \n School of Computer Science & Technology , GM University, Davangere",
+    // },
     {
       name: 'Dr. Asha K',
       position: 'Associate Professor and Head , Department of AIML, GM University, Davangere',

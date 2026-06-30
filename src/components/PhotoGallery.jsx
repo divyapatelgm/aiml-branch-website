@@ -24,18 +24,18 @@ export default function PhotoGallery() {
 
   // Gallery data
   const galleryItems = [
-  
-    { 
+
+    {
       carouselItems: [
-        { 
-          src: "/assets/gallary/lecture.jpg", 
-          type: "image", 
-          title: "Lecture - Professor Delivering a Lecture" 
+        {
+          src: "/assets/gallary/lecture.jpg",
+          type: "image",
+          title: "Lecture - Professor Delivering a Lecture"
         },
-        { 
-          src: "/assets/gallary/cad-software.jpg", 
-          type: "image", 
-          title: "Students Classroom Environment" 
+        {
+          src: "/assets/gallary/cad-software.jpg",
+          type: "image",
+          title: "Students Classroom Environment"
         }
       ],
       type: "carousel",
@@ -43,39 +43,39 @@ export default function PhotoGallery() {
     },
 
     { src: "/assets/gallary/laboratory.jpg", type: "image", title: "Laboratory - Student Performing a Test" },
-    
-    { 
+
+    {
       carouselItems: [
-        { 
-          src: "/assets/gallary/workshop.jpg", 
-          type: "image", 
-          title: "Workshop – Student Engaged in Hands-On Session" 
+        {
+          src: "/assets/gallary/workshop.jpg",
+          type: "image",
+          title: "Workshop – Student Engaged in Hands-On Session"
         },
-        { 
-          src: "/assets/gallary/workshop2.jpg", 
-          type: "image", 
-          title: "Workshop – Additional Session View" 
+        {
+          src: "/assets/gallary/workshop2.jpg",
+          type: "image",
+          title: "Workshop – Additional Session View"
         }
       ],
       type: "carousel",
       title: "Workshop – Student Engaged in Hands-On Session"
     },
-    { 
+    {
       carouselItems: [
-        { 
-          src: "/assets/gallary/project-learning.jpg", 
-          type: "image", 
-          title: "Project Based Learning - Student Group" 
+        {
+          src: "/assets/gallary/project-learning.jpg",
+          type: "image",
+          title: "Project Based Learning - Student Group"
         },
-        { 
-          src: "/assets/gallary/project-learning2.png", 
-          type: "image", 
-          title: "Project Based Learning - Student Group" 
+        {
+          src: "/assets/gallary/project-learning2.png",
+          type: "image",
+          title: "Project Based Learning - Student Group"
         },
-        { 
-          src: "/assets/gallary/project-learning3.png", 
-          type: "image", 
-          title: "Project Based Learning - Student Group" 
+        {
+          src: "/assets/gallary/project-learning3.png",
+          type: "image",
+          title: "Project Based Learning - Student Group"
         }
       ],
       type: "carousel",
@@ -89,67 +89,69 @@ export default function PhotoGallery() {
     { src: "/assets/gallary/internship.jpg", type: "image", title: "Student Internship" },
     { src: "/assets/gallary/industry-visit.png", type: "image", title: "Industry Visits" },
     { src: "/assets/gallary/drone_workshop-2026.mp4", type: "video", title: "Drone Workshop - 2026" },
+
     { src: "/assets/gallary/immersion-program.jpg", type: "image", title: "Immersion Program and Study Abroad" },
+
     { src: "/assets/gallary/department-conference.jpg", type: "image", title: "Group Discussion" },
     { src: "/assets/gallary/innovation-design.jpg", type: "image", title: "Innovation, Design Thinking and Product Development" },
     { src: "/assets/gallary/life-skills.jpg", type: "image", title: "Life Skills Training" },
     { src: "/assets/gallary/placement-training.jpg", type: "image", title: "Placement Training" },
-    { 
-      src: "/assets/gallary/National-Conference-2025.mp4", 
-      type: "video", 
-      title: "National Conference 2025" 
+    {
+      src: "/assets/gallary/National-Conference-2025.mp4",
+      type: "video",
+      title: "National Conference 2025"
     },
     { src: "/assets/gallary/yoga-gym.png", type: "image", title: "Yoga and Gymnasium with Students" },
     { src: "/assets/gallary/sports-activity.jpg", type: "image", title: "Sports Activity - GM League Matches" },
-    { 
-      src: "/assets/gallary/mallika-activity.mp4", 
-      type: "video", 
-      title: "Mallika - 2025" 
+    {
+      src: "/assets/gallary/mallika-activity.mp4",
+      type: "video",
+      title: "Mallika - 2025"
     },
     {
       carouselItems: [
-        { 
-          src: "/assets/gallary/mallika-award.jpg", 
-          type: "image", 
-          title: "Mallika Awards - 2025" 
+        {
+          src: "/assets/gallary/mallika-award.jpg",
+          type: "image",
+          title: "Mallika Awards - 2025"
         },
-        { 
-          src: "/assets/achievements/Sanjana_K_vtu_rank.jpeg", 
-          type: "image", 
-          title: "Mallika Awards - 2026" 
+        {
+          src: "/assets/achievements/Sanjana_K_vtu_rank.jpeg",
+          type: "image",
+          title: "Mallika Awards - 2026"
         }
       ],
       type: "carousel",
       title: "Mallika Awards",
     },
     { src: "/assets/gallary/kannada2.jpg", type: "image", title: "Kannada Kala Vaibhava - 2024" },
-    { 
-      src: "/assets/gallary/Dandiya-activity.mp4", 
-      type: "video", 
-      title: "Dandiya Nights" 
+    {
+      src: "/assets/gallary/Dandiya-activity.mp4",
+      type: "video",
+      title: "Dandiya Nights"
     },
     { src: "/assets/gallary/spark-event.jpg", type: "image", title: "Spark Event - 2025" },
-    { 
-      src: "/assets/gallary/Kannada-2025.mp4", 
-      type: "video", 
-      title: "Kannada Kala Vaibhava - 2025" 
+    {
+      src: "/assets/gallary/Kannada-2025.mp4",
+      type: "video",
+      title: "Kannada Kala Vaibhava - 2025"
     },
     {
       carouselItems: [
-        { 
-          src: "/assets/gallary/idea_lab_inaguration.png", 
-          type: "image", 
-          title: "Idea Lab Inaguration" 
-        },
         {
-          src: "/assets/gallary/inaguration3.png", 
-          type: "image", 
+          src: "/assets/gallary/idea_lab_inaguration.png",
+          type: "image",
           title: "Idea Lab Inaguration"
         },
-        { 
-          src: "/assets/gallary/Forum-inaguration-2025.JPG", 
-          type: "image", 
-          title: "Forum Inaguration" 
+        {
+          src: "/assets/gallary/inaguration3.png",
+          type: "image",
+          title: "Idea Lab Inaguration"
+        },
+        {
+          src: "/assets/gallary/Forum-inaguration-2025.JPG",
+          type: "image",
+          title: "Forum Inaguration"
         }
       ],
       type: "carousel",
@@ -157,25 +159,25 @@ export default function PhotoGallery() {
     },
     {
       carouselItems: [
-        { 
-          src: "/assets/gallary/KannadaIMG-2025.jpg", 
-          type: "image", 
-          title: "Kannada Kala Vaibhava - 2025" 
+        {
+          src: "/assets/gallary/KannadaIMG-2025.jpg",
+          type: "image",
+          title: "Kannada Kala Vaibhava - 2025"
         },
-        { 
-          src: "/assets/gallary/KannadaIMG2-2025.jpg", 
-          type: "image", 
-          title: "Kannada Kala Vaibhava - 2025" 
+        {
+          src: "/assets/gallary/KannadaIMG2-2025.jpg",
+          type: "image",
+          title: "Kannada Kala Vaibhava - 2025"
         },
-        { 
-          src: "/assets/gallary/KannadaIMG3-2025.jpg", 
-          type: "image", 
-          title: "Kannada Kala Vaibhava - 2025" 
+        {
+          src: "/assets/gallary/KannadaIMG3-2025.jpg",
+          type: "image",
+          title: "Kannada Kala Vaibhava - 2025"
         },
-        { 
-          src: "/assets/gallary/KannadaIMG4-2025.jpg", 
-          type: "image", 
-          title: "Kannada Kala Vaibhava - 2025" 
+        {
+          src: "/assets/gallary/KannadaIMG4-2025.jpg",
+          type: "image",
+          title: "Kannada Kala Vaibhava - 2025"
         },
       ],
       type: "carousel",
@@ -188,7 +190,7 @@ export default function PhotoGallery() {
     <section ref={ref} className="py-20 bg-white relative">
       <div className="max-w-7xl mx-auto px-5 relative z-10">
         {/* Heading */}
-       
+
         <div className="text-center mb-16">
           <h2 className="text-5xl md:text-6xl font-bold text-primary-dark mb-4">
             The Creative Lens
@@ -251,15 +253,14 @@ export default function PhotoGallery() {
             </div>
           ))}
         </div>
-        
+
         {/* Call to action */}
         <div
-          className={`text-center mt-16 transition-all duration-1000 delay-700 ${
-            inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
-          }`}
+          className={`text-center mt-16 transition-all duration-1000 delay-700 ${inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
+            }`}
         >
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <div 
+            <div
               onClick={() => navigate('/videos')}
               className="inline-block bg-gradient-to-r from-primary to-accent p-1 rounded-full cursor-pointer active:scale-95 transition-all duration-300"
             >
@@ -269,8 +270,8 @@ export default function PhotoGallery() {
                 </p>
               </div>
             </div>
-            
-            <div 
+
+            <div
               onClick={() => navigate('/memory-pics')}
               className="inline-block bg-gradient-to-r from-accent to-primary p-1 rounded-full cursor-pointer active:scale-95 transition-all duration-300"
             >

@@ -7,7 +7,7 @@ const UPDATES_DATA = [
     title: "Founder's Day 2026",
     category: "Competition",
     date: "June 22 - 23, 2026",
-    image: "/assets/GMU_UPDATES/gmu_foundation.png",
+    image: "/assets/GMU_UPDATES/gmu_foundation1.png",
     badgeColor: "from-pink-500 to-rose-600"
   },
   {
@@ -15,7 +15,7 @@ const UPDATES_DATA = [
     title: "Founder's Day 2026",
     category: "Competition",
     date: "June 22 - 23, 2026",
-    image: "/assets/GMU_UPDATES/gmu_foundation1.png",
+    image: "/assets/GMU_UPDATES/gmu_foundation3.png",
     badgeColor: "from-pink-500 to-rose-600"
   },
   {
@@ -23,7 +23,7 @@ const UPDATES_DATA = [
     title: "Founder's Day 2026",
     category: "Competition",
     date: "June 22 - 23, 2026",
-    image: "/assets/GMU_UPDATES/gmu_foundation3.png",
+    image: "/assets/GMU_UPDATES/gmu_foundation2.png",
     badgeColor: "from-pink-500 to-rose-600"
   },
   {
