@@ -134,7 +134,7 @@ aiml_website/
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd windsurf
+   cd aiml-website
    ```
 
 2. **Install dependencies**:
